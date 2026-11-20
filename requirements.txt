@@ -1,0 +1,5 @@
+python-telegram-bot>=21
+openpyxl
+scipy>=1.9
+numpy
+google-genai
